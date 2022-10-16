@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Buwaneka 
 
-- 🏠 I’m currently working as an Senior Team Lead at Pearson.
+- 🏠 I’m currently working as an Process Consultant at Sysco.
 - 🌱 I’m currently learning Atlassian, Tableau & etc.
 - 👯 I’m looking to collaborate on Research Projects.
 - 💬 Ask me about Computing & Programming Paradigms.
